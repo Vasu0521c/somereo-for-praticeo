@@ -1,5 +1,6 @@
 Copyright Neovim contributors. All rights reserved.
 
+copyright? you say? what is ccopy right, ou have the right to copy.
 Neovim is licensed under the terms of the Apache 2.0 license, except for
 parts of Neovim that were contributed under the Vim license (see below).
 
