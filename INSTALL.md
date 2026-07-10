@@ -1,5 +1,5 @@
 You can install Neovim from [download](#install-from-download), [package](#install-from-package), or [source](#install-from-source) in just a few seconds.
-
+i may nbot be able to install vim.
 ---
 
 - To start Neovim, run `nvim` (not `neovim`).
